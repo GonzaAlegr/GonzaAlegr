@@ -13,3 +13,7 @@ Me gusta el ingles y me gustaria estudiar la carrera de traductorado
 💤 Lenguajes:
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,arduino)](https://skillicons.dev)
+
+💤 Adicionales:
+
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap)](https://skillicons.dev)
