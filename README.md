@@ -1,16 +1,15 @@
-## Hi there 👋
+💤 Holo soy Gonzalo Alegre. Estudiante de tecnico de informatica 
 
-<!--
-**GonzaAlegr/GonzaAlegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌑 Edad: 19 años
 
-Here are some ideas to get you started:
+🎮 Amante de los juegos. Platinador de juegos y procastinador excepcional :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Pixel](https://github.com/user-attachments/assets/0656aab5-bd27-4380-8234-6b16ef6debe6)
+
+Me gusta el ingles y me gustaria estudiar la carrera de traductorado
+
+
+💤 Lenguajes:
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,arduino)](https://skillicons.dev)
