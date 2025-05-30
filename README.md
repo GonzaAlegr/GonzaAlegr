@@ -7,7 +7,7 @@
 
 ![Pixel](https://github.com/user-attachments/assets/0656aab5-bd27-4380-8234-6b16ef6debe6)
 
-Me gusta el ingles y me gustaria estudiar la carrera de traductorado
+📖 Me gusta el ingles y me gustaria estudiar la carrera de traductorado
 
 
 💤 Lenguajes:
